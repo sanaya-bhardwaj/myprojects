@@ -52,7 +52,8 @@ netflix-clone/
 
 ## Screenshot
 
-![Screenshot of Netflix Clone]
+<img width="940" alt="clone1" src="https://github.com/sanaya-bhardwaj/myprojects/assets/135012941/c09df70a-9e34-49d8-a507-4f45ff6a190f">
 
+<img width="944" alt="clone2" src="https://github.com/sanaya-bhardwaj/myprojects/assets/135012941/db850560-2a4d-4d28-a5bd-cfe27cd446de">
 
 Enjoy browsing through the Netflix clone!
